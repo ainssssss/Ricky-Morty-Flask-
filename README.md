@@ -25,4 +25,4 @@ Este comando iniciará el servidor de desarrollo y te proporcionará una URL loc
 
 Espero que esta información te sea útil para ejecutar esta aplicación Flask. ¡Disfruta de tu experiencia de desarrollo web!
 
-![alt text]([http://url/to/img.png](https://i.ibb.co/2yKptSC/Captura-de-pantalla-de-2023-11-05-22-10-48.png)https://i.ibb.co/2yKptSC/Captura-de-pantalla-de-2023-11-05-22-10-48.png)
+![App Screenshot](https://i.ibb.co/2yKptSC/Captura-de-pantalla-de-2023-11-05-22-10-48.png)
