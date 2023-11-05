@@ -17,7 +17,7 @@ Este comando instalará todas las bibliotecas requeridas que se encuentran en el
 Paso 2: Ejecuta la Aplicación
 Una vez que todas las dependencias estén instaladas con éxito, puedes ejecutar la aplicación utilizando Flask. Usa el siguiente comando:
 
-flask run --app main
+flask  --app main run
 
 Este comando iniciará el servidor de desarrollo y te proporcionará una URL local en la que puedes acceder a la aplicación. Normalmente, la dirección será http://localhost:5000.
 
